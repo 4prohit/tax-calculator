@@ -6,7 +6,7 @@ import org.junit.Test;
 import static com.online_pajak.code_challenge.services.MetadataService.getTaxRelief;
 import static org.junit.Assert.assertEquals;
 
-public class MetadataServiceTests {
+public class MetadataServiceTest {
 
     @Test(expected = RuntimeException.class)
     public void test_getTaxRelief_for_null_person() {

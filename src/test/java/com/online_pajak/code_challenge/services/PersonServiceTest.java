@@ -7,7 +7,7 @@ import org.junit.Test;
 import static com.online_pajak.code_challenge.services.PersonService.getPerson;
 import static org.junit.Assert.assertNotNull;
 
-public class PersonServiceTests {
+public class PersonServiceTest {
 
     @Test(expected = IllegalArgumentException.class)
     public void test_getPerson_with_null_arguments() {

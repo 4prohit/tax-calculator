@@ -6,7 +6,7 @@ import org.junit.Test;
 import static com.online_pajak.code_challenge.services.TaxationService.calculateIncomeTax;
 import static org.junit.Assert.assertEquals;
 
-public class TaxationServiceTests {
+public class TaxationServiceTest {
 
     @Test
     public void test_calculateIncomeTax_with_zero_income() {
