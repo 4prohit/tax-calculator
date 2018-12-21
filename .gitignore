@@ -20,6 +20,7 @@ target/
 nbproject/private/
 build/
 nbbuild/
+# dist/
 nbdist/
 .nb-gradle/
 /bin/
@@ -37,7 +38,7 @@ nbdist/
 .mtj.tmp/
 
 # Package Files #
-*.jar
+# *.jar
 *.war
 *.nar
 *.ear
