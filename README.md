@@ -7,5 +7,5 @@ To run this program execute the jar file with 3 arguments.
 For single pass 's' and for married pass 'm',
 
 Examples:
-java -jar dist/tax-calculator-1.0-SNAPSHOT.jar 6500000 m 1
-java -jar dist/tax-calculator-1.0-SNAPSHOT.jar 25000000 s 0
+- java -jar dist/tax-calculator-1.0-SNAPSHOT.jar 6500000 m 1
+- java -jar dist/tax-calculator-1.0-SNAPSHOT.jar 25000000 s 0
